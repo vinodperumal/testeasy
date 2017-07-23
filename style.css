@@ -1,0 +1,23 @@
+.testeasy-icons
+{
+  border-radius: 5%;
+  width: 100%;
+  height: auto;
+}
+
+.testeasy-icons-caption
+{
+  border-radius: 5%;
+  background-color: #76eec6;
+  width: 100%;
+  height: auto;
+}
+
+.testeasy-icons-container
+{
+  border: 2px solid red;
+  border-radius: 5%;
+  width: 10%;
+  align-items: center;
+  margin: 5px 5px 5px 5px;
+}
